@@ -1,0 +1,56 @@
+[
+    {
+        "id": "011190",
+        "img": "https://i.ibb.co/MkKR58T/html.jpg",
+        "name": "Html",
+        "about": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables.",
+        "rating": "5",
+        "time": 40,
+        "gender": "male"
+      },
+      {
+        "id": "011191",
+        "img": "https://i.ibb.co/YBCGwXM/CSS.jpg",
+        "name": "CSS",
+        "about": "CSS stands for Cascading Style Sheets.CSS describes how HTML elements are to be displayed on screen, paper, or in other media.",
+        "rating": "4.6",
+        "time": 50,
+        "gender": "female"
+      },
+      {
+        "id": "011192",
+        "img": "https://i.ibb.co/Wp52GQ6/bootstrap.png",
+        "name": "Bootstrap",
+        "about": "Bootstrap is a free front-end framework for faster and easier to use in web development. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins.",
+        "rating": "4.8",
+        "time": 50,
+        "gender": "female"
+      },
+      {
+        "id": "011193",
+        "img": "https://i.ibb.co/WFDkCZm/tailwind.png",
+        "name": "Tailwind",
+        "about": "Tailwind CSS makes it quicker to write and maintain the code of your application.By using this utility-first framework, you don't have to write custom CSS to style your application. Instead, you can use utility classes to control the padding, margin, color, font, shadow, and more of your application.",
+        "rating": "4.9",
+        "time": 45,
+        "gender": "male"
+      },
+      {
+        "id": "011194",
+        "img": "https://i.ibb.co/VJDtrQY/js.jpg",
+        "name": "JavaScript",
+        "about": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well.",
+        "rating": "5",
+        "time": 60,
+        "gender": "female"
+      },
+      {
+        "id": "011195",
+        "img": "https://i.ibb.co/nzwpPKg/react.png",
+        "name": "React",
+        "about": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.",
+        "rating": "4.9",
+        "time": 68,
+        "gender": "female"
+      }
+]
